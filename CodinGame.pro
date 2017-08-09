@@ -5,4 +5,5 @@ SUBDIRS += \
     TheDescente \
     Temperatures \
     PowerOfThor \
-    MarsLander
+    MarsLander \
+    AsciiArt
