@@ -6,4 +6,5 @@ SUBDIRS += \
     Temperatures \
     PowerOfThor \
     MarsLander \
-    AsciiArt
+    AsciiArt \
+    ChuckNorris
